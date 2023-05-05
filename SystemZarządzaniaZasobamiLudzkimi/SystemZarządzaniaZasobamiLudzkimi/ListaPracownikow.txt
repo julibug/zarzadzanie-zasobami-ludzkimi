@@ -1,0 +1,4 @@
+4 Joanna Nowakowska 1 1 1 1
+2 Julian Mazur 1 0 0 1
+3 Lilianna Burak 1 1 0 0
+1 Klara Bleble 1 1 0 0
